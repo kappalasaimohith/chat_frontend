@@ -1,0 +1,7 @@
+dist/
+assets/
+*.config.js
+vite.config.js
+tailwind.config.js
+postcss.config.js
+src/config.js
